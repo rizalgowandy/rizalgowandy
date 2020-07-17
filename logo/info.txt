@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: ArchivoNarrow-Bold
+font link: https://fonts.google.com/specimen/Archivo+Narrow
+font author: Omnibus-Type
+font author site: http://www.omnibus-type.com/
+Slogan Font: Questrial-Regular.otf
+
+icon designer: Irene Trautluft
+icon designer link: /irene.trautluft
+        
+{"bg":"#351B4E","icon":"#33D0F4","font":"#FFFFFF","slogan":"#ffffff"}
+      
