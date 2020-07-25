@@ -1,5 +1,7 @@
 # 你好 👋
 
+<img alt="mew" align="right" width="125px" src="https://media.giphy.com/media/w6YCfXHS6QZjeHlVpI/giphy.gif">
+
 - Backend Development
   * Golang
   * NodeJS
@@ -33,5 +35,3 @@
   * GitHub Action
   * Heroku
   * Google Cloud Platform
-
-<img alt="mew" align="right" width="125px" src="https://media.giphy.com/media/w6YCfXHS6QZjeHlVpI/giphy.gif">
