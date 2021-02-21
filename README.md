@@ -7,4 +7,12 @@
 - 🌱 I’m currently learning **_[Kubernetes](https://kubernetes.io/)_**
 - 📫 How to reach me: **_[Linkedin](https://www.linkedin.com/in/rizalgowandy/)_**
 - 💬 Ask me about **_[Anime](https://www.merriam-webster.com/dictionary/anime)_**
-- ⚡ Fun fact: Peanuts aren’t technically nuts. They’re legumes.
+- ⚡ Fun fact: Peanuts aren't technically nuts. They’re legumes.
+
+📊 **Coding Activity**
+
+![WakaTime Stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=rizalgowandy&hide_title=true&hide_border=true&langs_count=5)
+
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
