@@ -8,6 +8,10 @@
 - 💬 Ask me about **_[Anime](https://www.merriam-webster.com/dictionary/anime)_**
 - ⚡ Fun fact: Peanuts aren't technically nuts. They’re legumes.
 
+📊 **Weekly Coding Activity**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 :pencil2: **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 
