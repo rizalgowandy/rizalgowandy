@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
-<img alt="mew" align="right" width="125px" src="https://media.giphy.com/media/w6YCfXHS6QZjeHlVpI/giphy.gif">
+<img alt="piplup" align="right" width="125px" src="https://media.giphy.com/media/w6YCfXHS6QZjeHlVpI/giphy.gif">
 
 - :book: I’m currently reading **_[Terraform: Up & Running: Writing Infrastructure as Code](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-ebook-dp-B07XKF258P/dp/B07XKF258P)_**
 - 🌱 I’m currently learning **_[Kubernetes](https://kubernetes.io/)_**
