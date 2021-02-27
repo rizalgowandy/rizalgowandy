@@ -3,7 +3,7 @@
 <img alt="piplup" align="right" width="125px" src="https://media.giphy.com/media/w6YCfXHS6QZjeHlVpI/giphy.gif">
 
 - :book: I’m currently reading **_[Terraform: Up & Running: Writing Infrastructure as Code](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code-ebook-dp-B07XKF258P/dp/B07XKF258P)_**
-- 🌱 I’m currently learning **_[Kubernetes](https://kubernetes.io/)_**
+- 🌱 I’m currently learning **_[Rust](https://www.rust-lang.org/)_**
 - 📫 How to reach me: **_[Linkedin](https://www.linkedin.com/in/rizalgowandy/)_**
 - 💬 Ask me about **_[Anime](https://www.merriam-webster.com/dictionary/anime)_**
 - ⚡ Fun fact: Peanuts aren't technically nuts. They’re legumes.
@@ -19,10 +19,10 @@
 📊 **Weekly Coding Activity**
 <!--START_SECTION:waka-->
 ```text
-Go                28 hrs 12 mins  █████████████████░░░░░░░░   67.56 % 
-Terraform         3 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Protocol Buffer   2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-YAML              2 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-SQL               1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Go                23 hrs 12 mins  ███████████████████░░░░░░   76.15 % 
+Terraform         3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Protocol Buffer   1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+SQL               1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Markdown          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 <!--END_SECTION:waka-->
