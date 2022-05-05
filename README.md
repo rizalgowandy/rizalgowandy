@@ -17,12 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML              58 mins         █████████████▒░░░░░░░░░░░   53.00 %
-Go                45 mins         ██████████▒░░░░░░░░░░░░░░   41.64 %
-.env file         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-go.mod            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-JSON              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
