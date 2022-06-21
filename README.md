@@ -2,8 +2,6 @@
 ![stats](profile-summary-card-output/vue/3-stats.svg)
 ![most-commit-language](profile-summary-card-output/vue/2-most-commit-language.svg)
 
-<img alt="piplup" align="right" width="125px" src="https://media.giphy.com/media/w6YCfXHS6QZjeHlVpI/giphy.gif">
-
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Docker Compose for Amazon DynamoDB with Migration, Seeding, and Admin UI](https://medium.com/geekculture/docker-compose-for-amazon-dynamodb-with-migration-seeding-and-admin-ui-db11a348cc6a?source=rss-5763b0f1aba6------2)
