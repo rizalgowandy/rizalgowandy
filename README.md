@@ -15,7 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go     21 mins         ████████████████▒░░░░░░░░   65.94 %
+SQL    9 mins          ███████▒░░░░░░░░░░░░░░░░░   28.99 %
+JSON   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 ```
 
 <!--END_SECTION:waka-->
