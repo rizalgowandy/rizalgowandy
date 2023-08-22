@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL        1 hr 15 mins    ████████████████████▓░░░░   82.10 %
+YAML       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Go         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
