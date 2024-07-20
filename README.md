@@ -1,6 +1,5 @@
 ![profile-details](profile-summary-card-output/vue/0-profile-details.svg)
 ![stats](profile-summary-card-output/vue/3-stats.svg)
-![most-commit-language](profile-summary-card-output/vue/2-most-commit-language.svg)
 
 ### :pencil2: Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
