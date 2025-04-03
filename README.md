@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               4 hrs 45 mins   ██████████████████████▒░░   89.02 %
-YAML             15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Docker           8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-textmate         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Text             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
