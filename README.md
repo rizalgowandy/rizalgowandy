@@ -13,9 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go      2 mins          █████████████████▓░░░░░░░   70.09 %
-CSV     0 secs          ██████▒░░░░░░░░░░░░░░░░░░   24.93 %
-Other   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
