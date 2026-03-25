@@ -13,7 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go      1 hr 44 mins          ████████████████████░░░░░   80.02 %
+SQL     13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Other   12 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+YAML    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
