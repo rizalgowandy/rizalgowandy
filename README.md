@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go                          4 hrs 28 mins         █████████████▓░░░░░░░░░░░   54.26 %
-Markdown                    1 hr 19 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-YAML                        1 hr 10 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-SQL                         1 hr 6 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-OpenSPG Concept Rule File   8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Go                          4 hrs 56 mins         ████████████▓░░░░░░░░░░░░   51.17 %
+SQL                         1 hr 37 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+Markdown                    1 hr 36 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+YAML                        1 hr 13 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+OpenSPG Concept Rule File   8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
