@@ -15,20 +15,20 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./0-profile-details.svg)
 
 ```
-![](https://raw.githubusercontent.com/rizalgowandy/rizalgowandy/main/profile-summary-card-output/aura/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/rizalgowandy/rizalgowandy/main/profile-summary-card-output/aura/0-profile-details.svg)
 ```
 
     
 
 ---
 
-![](./4-productive-time.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/rizalgowandy/rizalgowandy/main/profile-summary-card-output/aura/4-productive-time.svg)
+![](https://raw.githubusercontent.com/rizalgowandy/rizalgowandy/main/profile-summary-card-output/aura/1-repos-per-language.svg)
 ```
 
     

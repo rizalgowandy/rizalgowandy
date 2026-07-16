@@ -15,20 +15,20 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
+![](./0-profile-details.svg)
 
 ```
-![](https://raw.githubusercontent.com/rizalgowandy/rizalgowandy/main/profile-summary-card-output/cobalt2/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/rizalgowandy/rizalgowandy/main/profile-summary-card-output/cobalt2/0-profile-details.svg)
 ```
 
     
 
 ---
 
-![](./4-productive-time.svg)
+![](./1-repos-per-language.svg)
 
 ```
-![](https://raw.githubusercontent.com/rizalgowandy/rizalgowandy/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
+![](https://raw.githubusercontent.com/rizalgowandy/rizalgowandy/main/profile-summary-card-output/cobalt2/1-repos-per-language.svg)
 ```
 
     
