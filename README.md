@@ -13,11 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go             1 hr 33 mins          ███████████░░░░░░░░░░░░░░   43.98 %
-Markdown       1 hr 11 mins          ████████▒░░░░░░░░░░░░░░░░   33.71 %
-YAML           38 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
-HTTP Request   7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Bash           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
